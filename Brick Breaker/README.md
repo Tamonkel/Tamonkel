@@ -8,7 +8,8 @@ Das Ziel des Spiels Brick Breaker ist es, alle Blöcke („Bricks“) mit einem 
 
 ## 📦 Technologien
 
-- 💻 Python
+- 🐍 Python
+- 🎮 Pygame (Python-Bibliothek)
 
 ---
 
